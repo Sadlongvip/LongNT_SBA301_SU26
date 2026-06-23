@@ -1,0 +1,16 @@
+# Ignore Java build target directories
+**/target/
+
+# Ignore Node.js dependencies and build outputs
+**/node_modules/
+**/dist/
+**/.cache/
+
+# Ignore IDE settings
+**/.idea/
+**/.vscode/
+*.iml
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
